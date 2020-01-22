@@ -1,0 +1,11 @@
+C:\Users\hstua\source\repos\TimeComplexityPractice\TimeComplexityPractice\bin\Debug\netcoreapp3.1\TimeComplexityPractice.exe
+C:\Users\hstua\source\repos\TimeComplexityPractice\TimeComplexityPractice\bin\Debug\netcoreapp3.1\TimeComplexityPractice.deps.json
+C:\Users\hstua\source\repos\TimeComplexityPractice\TimeComplexityPractice\bin\Debug\netcoreapp3.1\TimeComplexityPractice.runtimeconfig.json
+C:\Users\hstua\source\repos\TimeComplexityPractice\TimeComplexityPractice\bin\Debug\netcoreapp3.1\TimeComplexityPractice.runtimeconfig.dev.json
+C:\Users\hstua\source\repos\TimeComplexityPractice\TimeComplexityPractice\bin\Debug\netcoreapp3.1\TimeComplexityPractice.dll
+C:\Users\hstua\source\repos\TimeComplexityPractice\TimeComplexityPractice\bin\Debug\netcoreapp3.1\TimeComplexityPractice.pdb
+C:\Users\hstua\source\repos\TimeComplexityPractice\TimeComplexityPractice\obj\Debug\netcoreapp3.1\TimeComplexityPractice.csprojAssemblyReference.cache
+C:\Users\hstua\source\repos\TimeComplexityPractice\TimeComplexityPractice\obj\Debug\netcoreapp3.1\TimeComplexityPractice.AssemblyInfoInputs.cache
+C:\Users\hstua\source\repos\TimeComplexityPractice\TimeComplexityPractice\obj\Debug\netcoreapp3.1\TimeComplexityPractice.AssemblyInfo.cs
+C:\Users\hstua\source\repos\TimeComplexityPractice\TimeComplexityPractice\obj\Debug\netcoreapp3.1\TimeComplexityPractice.dll
+C:\Users\hstua\source\repos\TimeComplexityPractice\TimeComplexityPractice\obj\Debug\netcoreapp3.1\TimeComplexityPractice.pdb
